@@ -1,4 +1,4 @@
-# My Ruby exercises
+# My Ruby sandbox
 Some starters experiments in my Ruby sandbox.
 
 starters_kit:
