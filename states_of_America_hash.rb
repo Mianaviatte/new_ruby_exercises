@@ -51,5 +51,9 @@ states_of_America = {
     :Wyoming => "Cheyenne"
 }
 
-puts states_of_America[:Wisconsin]
-puts states_of_America["Rhode Island"].upcase()
+states_of_America.each do |key, value|
+    puts "The state #{key} has a capital #{value}."
+end 
+
+# puts states_of_America["Rhode Island"].upcase()
+# puts states_of_America[:Vermont].downcase()
