@@ -2,19 +2,19 @@
 
 Some starters experiments in my Ruby sandbox.
 
-starters_kit:
+## Starters_kit:
 
 - roses_are_red game
 - maximum_number with input error handler
 - states_of_America_hash to practice hash methods
 - etc
 
-fun tools:
+## Fun tools & games:
 
-- 
+- guessing_game
 - etc
 
-oop practice:
+## OOP practice:
 
 - 
 - etc
