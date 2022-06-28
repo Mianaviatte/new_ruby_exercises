@@ -12,6 +12,7 @@ Some starters experiments in my Ruby sandbox.
 ## Fun tools & games:
 
 - guessing_game
+- multychoice_quiz
 - etc
 
 ## OOP practice:
